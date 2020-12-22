@@ -1,0 +1,47 @@
+{
+	"Schwarze Tonne":
+	{
+		"januar":[5,18,29],
+		"februar":[12,26],
+		"march":[12,26],
+		"april":[12,23],
+		"may":[7,21],
+		"june":[5,18],
+		"july":[2,16,30],
+		"august":[13,27],
+		"september":[10,24],
+		"october":[8,22],
+		"november":[6,19],
+		"december":[3,17]
+	},
+	"Grüne Tonne":
+	{
+		"januar":[12,23],
+		"februar":[5,19],
+		"march":[5,19],
+		"april":[6,17,30],
+		"may":[15,29],
+		"june":[11,25],
+		"july":[9,23],
+		"august":[6,20],
+		"september":[3,17],
+		"october":[1,15,29],
+		"november":[12,26],
+		"december":[10,27]		
+	},
+	"Braune Tonne":
+	{
+		"januar":[11,25],
+		"februar":[8,22],
+		"march":[8,22],
+		"april":[7,19],
+		"may":[3,17,31],
+		"june":[14,28],
+		"july":[12,26],
+		"august":[9,23],
+		"september":[6,20],
+		"october":[4,18],
+		"november":[2,15,29],
+		"december":[13,28]		
+	}
+}
